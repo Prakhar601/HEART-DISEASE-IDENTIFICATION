@@ -2,7 +2,10 @@
 
     Overview:
 
-    This project builds predictive machine learning models to identify heart disease in patients using clinical and demographic data. It walks through data loading, cleaning, exploratory analysis, model training, evaluation, and provides insights for future improvements.
+    This project builds predictive machine learning models 
+    to identify heart disease in patients using clinical and demographic data. 
+    It walks through data loading, cleaning, exploratory analysis, model training, evaluation, 
+    and provides insights for future improvements.
 
     Table of Contents:
 
